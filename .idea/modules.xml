@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/algo-hashMap-gergelyPapi.iml" filepath="$PROJECT_DIR$/.idea/algo-hashMap-gergelyPapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algojavahashMap/algojavahashMap.iml" filepath="$PROJECT_DIR$/algojavahashMap/algojavahashMap.iml" />
+    </modules>
+  </component>
+</project>
